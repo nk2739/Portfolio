@@ -1,0 +1,3 @@
+In this project I implemented BFS, DFS, and A* Search algorithms in finding the solutions to boxes containing integers between 0 and 8.
+To run, do "python driver.py 'bfs/dfs/ast' 0,1,2,3,4,5,6,7,8" or any combination of the integers and the solution will print
+the path to the goal, number of nodes expanded, search depth, time to caculate, and more for that algorithm. 
