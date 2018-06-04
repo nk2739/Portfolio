@@ -1,3 +1,1 @@
-This homework consisted of implementing three different ML algorithms, including a perceptron algorithm, a linear regression, and K-Means on an image.
-README.pdf shows the results of running each algorithm on their respective input data (input1.csv for problem1.py, input2.csv for problem2.py, and
-tree.jpg for problem3.py).
+This homework consisted of implementing three different ML algorithms, including a perceptron algorithm, a linear regression, and K-Means on an image. README.pdf shows the results of running each algorithm on their respective input data (input1.csv for problem1.py, input2.csv for problem2.py, and tree.jpg for problem3.py).
