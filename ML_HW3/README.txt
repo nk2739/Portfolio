@@ -1,0 +1,1 @@
+spam_classifier_final.py trains on given ham/spam textual data and predicts whether new e-mails are ham or spam. Pre-processing techniques like removing punction and stemming words was utilized. Additionally, we used the Bag-Of-Words model, Bayesian spam filtering, and more when doing Maximum Likelihood Estimation (MLE) prediction.
